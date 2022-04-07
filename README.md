@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, AWS**
 
-- 📄 Know about my experiences [2 years experience as Java FullStack Developer](2 years experience as Java FullStack Developer)
+- 📄 (2 years experience as Java FullStack Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
